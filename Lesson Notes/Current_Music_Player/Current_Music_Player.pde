@@ -1,25 +1,25 @@
 // Dynamic not static
 //
-//Library - Minin
+//Library - Minim
 //
 //Global Variables 
-//
 float X, Y, Width, Height;
-float y;
+float 
 
-void setup() {
-   float appwidth = displayWidth;
-   float appheight = displayHeight;
+void setup() { ;
+     fullScreen(); //displayWidth, displatHeight
+   int appwidth = displayWidth;
+   int appheight = displayHeight;
    
-  X = appwidth = 0.20;
-  Y = appheight = 0.20;
-  Width = appwidth = 0.20;
-  Height = appheight = 0.20;
+  TopDisplayX = appwidth = 0.20;
+  TopDisplayY = appheight = 0.20;
+  TopDisplayWidth = appwidth = 0.20;
+  TopDisplayHeight = appheight = 0.20;
   
    fullScreen();
    println(displayWidth, displayHeight);
  
-   rect(X, Y, Width, Height);
+   rect(20, 20, 20, 20);
    rect(X, Y, Width, Height);
    rect(X, Y, Width, Height);
    rect(X, Y, Width, Height);
