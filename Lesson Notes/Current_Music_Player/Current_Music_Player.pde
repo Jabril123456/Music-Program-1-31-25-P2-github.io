@@ -31,7 +31,7 @@ void setup()
    rect(playbuttonX, playbuttonY, playbuttonWidth, playbuttonHeight);
    rect(loopbuttonX, loopbuttonY, loopbuttonWidth, loopbuttonHeight);
    rect(loopinfiniteX, loopinfiniteY, loopinfiniteWidth, loopinfiniteHeight);
-   rect(X, Y, Width, Height);
+   rect(shuffleX, shuffleY, shuffleWidth, shuffleHeight);
    rect(X, Y, Width, Height);
    rect(X, Y, Width, Height);
    rect(X, Y, Width, Height);
