@@ -10,12 +10,11 @@ void setup() {
   appwidth = ; 
   appheight = ; variable
   //
-  //Population 
+  //Population
   imageDivX, imageDivY, imageDivWidth, imageDivHeight );
-  //   
+  //
   //Image Aspect Ratio Algorithim
-String myFirstimagepathway 
+  myFirstimage = ;
   //
   //Div
-  rect( image  bmebe
- //Landscape includes square w>h 
+  rect( image 
