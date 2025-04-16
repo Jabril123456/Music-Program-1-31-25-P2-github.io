@@ -17,4 +17,15 @@ void setup() {
   myFirstimage = ;
   //
   //Div
-  rect( image 
+  String; Myfirstimagepathway = "Images/Landscape/bike.jpg"
+ ;i myFirstImage= loadImage-( myFirstImagePathway);
+ ;int MyFirstImagewidth = 
+ ;int MyFirstImageheight = 
+ float imageAspectratio _GreaterOne = ( myFirstImageWidth) ? float (MyFirstImageWidth)
+ println(imageAspectratio_GreaterOne ( myFirstImageWidth ) ? float (myFirstImageWidth)
+ println(imageAspectratio_GreaterOne);
+ Boolean imageLandscape = ( myfirstImageWidth >= myFirstImageHeight ) ? true : false ;
+ Boolean divLandscape = ( imageDivWidth >= imageDivHeight ) ? true : false ;
+ 
+ //Width if ImageLandscape into divLandscape, imageLandscape into divPortrait
+ //height if imagePortrait(false) into divPortrait, imagePortrait(
