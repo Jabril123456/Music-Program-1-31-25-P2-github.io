@@ -52,7 +52,7 @@ body {
 	font-family: 'Roboto Slab', serif;
 	margin: 0;
 	padding: 0;
-	background-color: white;
+	background-color: #75b5f9;
 }
 
 h1 {
@@ -136,5 +136,5 @@ footer {
 }
 
 #incomplete {
-	background-color: rgb(117, 181, 249);
+	background-color: #75b5f9;
 }
