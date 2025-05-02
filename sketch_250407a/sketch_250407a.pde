@@ -4,18 +4,11 @@
 //
 //Global Variation
 //
+import processing.sound.*;
+
+SoundFile song;
+
 void setup() {
-  //Display 
-  fullScreen(): 
-  appwidth = ; 
-  appheight = ; variable
-  //
-  //Population 
-  imageDivX, imageDivY, imageDivWidth, imageDivHeight );
-  //   
-  //Image Aspect Ratio Algorithim
-String myFirstimagepathway 
-  //
-  //Div
-  rect( image  bmebe
- //Landscape includes square w>h 
+  size(800, 600);  // Set window size
+  song = new SoundFile(this, "Pong World.mp3"); // Replace "song.mp3" with your file
+}
