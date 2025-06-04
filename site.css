@@ -80,7 +80,7 @@ p {
 
 ul {
 	font-size: 2vw; /* Dynamically adjusts with viewport width */
-	text-align: left;
+	text-align: right;
 	padding-left: 5vw; /* Adjust padding dynamically */
 	margin-top: 1vw;
 	margin-bottom: 1vw;
