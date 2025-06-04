@@ -90,6 +90,7 @@ li {
 	font-size: 1.8vw; /* Dynamically adjusts with viewport width */
     list-style-position: inside;
     margin-bottom: 0.5vw; /* Adds spacing between list items */
+	text-align: right;
 }
 
 img {
