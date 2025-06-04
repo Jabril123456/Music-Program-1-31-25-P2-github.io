@@ -91,7 +91,7 @@ li {
     list-style-position: inside;
     margin-bottom: 0.5vw; /* Adds spacing between list items */
 	text-align: right;
-	padding-right: 1vw; /* Adjust padding dynamically */
+	padding-right: 0.5vw; /* Adjust padding dynamically */
 }
 
 img {
