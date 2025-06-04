@@ -79,19 +79,18 @@ p {
 }
 
 ul {
-	font-size: 2vw; /* Dynamically adjusts with viewport width */
-	text-align: right;
-	padding-left: 0vw; /* Adjust padding dynamically */
-	margin-top: 1vw;
-	margin-bottom: 1vw;
+	font-size: 1.8vw; /* Dynamically adjusts with viewport width */
+    text-align: left; /* Align text to the left */
+    padding-left: 5vw; /* Add spacing from the left */
+    margin-top: 1vw;
+    margin-bottom: 1vw;
 }
 
 li {
-	font-size: 1.8vw; /* Dynamically adjusts with viewport width */
+    font-size: 1.5vw; /* Dynamically adjusts with viewport width */
     list-style-position: inside;
     margin-bottom: 0.5vw; /* Adds spacing between list items */
-	text-align: right;
-	padding-right: 0vw; /* Adjust padding dynamically */
+    padding-left: 1vw; /* Slight padding for better alignment */
 }
 
 img {
