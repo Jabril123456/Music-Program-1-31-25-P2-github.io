@@ -17,7 +17,7 @@ void setup() {
   minim = new Minim(this);
   
   // Load the audio file
-  song = minim.loadFile("Local Forecast - Elevator.mp3"); // Replace with your file name
+  song = minim.loadFile("Local Forecast - Elevator.mp3"); // 
   
   // Play the song
   song.play();
